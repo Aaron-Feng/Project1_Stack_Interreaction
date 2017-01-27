@@ -1,0 +1,27 @@
+{
+	"action":{
+		"push":"入栈",
+		"pop":"出栈",
+		"peek":"栈顶",
+		"size":"大小",
+		"isEmpty":"为空"
+	},
+	"menu":{
+		"edit":"编辑<span class='caret'></span>",
+		"setting":"设置<span class='caret'></span>",
+		"tutorial":"帮助",
+		"contact":"联系"
+	},
+	"info":{
+		"push":"元素入栈成功：",
+		"pushError":"入栈失败：不能推入空元素。",
+		"pop":"元素出栈成功：",
+		"popError":"出栈失败：不能从空栈中提取元素。",
+		"peek":"栈顶元素为：",
+		"peekError":"栈顶元素查看失败：不能从空栈中查看栈顶元素。",
+		"size":"栈大小为：",
+		"isEmpty":"该栈目前为空。",
+		"isNotEmpty":"该栈目前不为空。",
+		"clear":"成功重置栈。"
+	}
+}
